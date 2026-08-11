@@ -68,7 +68,7 @@ fish-disease-project/
 ├── rf_model.joblib
 ├── scaler.joblib
 │
-├── noisy_fish_dataset.xlsx
-├── simulated_fish_farm_dataset.xlsx
+├── noisy_fish_dataset.csv
+├──simulated_fish_farm_dataset.csv
 │
 └── feature_importances.png
